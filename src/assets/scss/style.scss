@@ -1,0 +1,9 @@
+@import "variables";
+
+// BOOTSTRAP
+@import "node_modules/bootstrap/scss/bootstrap";
+@import "node_modules/bootstrap-vue/src/index.scss";
+
+// MY SCSS
+@import "grid";
+@import "general";
